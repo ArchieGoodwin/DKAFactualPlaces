@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B53C418C-0CAB-42E8-9398-78C0C0E39171</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LookAround.iOS7</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FC97A4AF-2F52-469B-B79B-38C820C25EFF</key>
+		<string>https://github.com/ArchieGoodwin/DKAFactualPlaces</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LookAround.iOS7.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8812A5B4-9365-4AA0-90D2-2021E07A6C01</key>
+		<string>../../../LookAround.iOS7</string>
+		<key>FC97A4AF-2F52-469B-B79B-38C820C25EFF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ArchieGoodwin/DKAFactualPlaces</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FC97A4AF-2F52-469B-B79B-38C820C25EFF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FC97A4AF-2F52-469B-B79B-38C820C25EFF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DKAFactualPlaces</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8812A5B4-9365-4AA0-90D2-2021E07A6C01</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LookAround</string>
+		</dict>
+	</array>
+</dict>
+</plist>
