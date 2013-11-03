@@ -84,7 +84,7 @@
         }
     }
     
-    FactualAPI *api = [[FactualAPI alloc] initWithAPIKey:@"G1onplQoOqNrWt8lH4osdfZWwHXFdFLW9zy9vs9u" secret:@"4ZFCD4TaSlyjHBzOu2xl7E88lU3oiQfaVxFRCOYU"];
+    FactualAPI *api = [[FactualAPI alloc] initWithAPIKey:@"KEY" secret:@"SECRET"];
     _activeRequest = [api queryTable:@"places" optionalQueryParams:queryObject withDelegate:self];
 }
 
