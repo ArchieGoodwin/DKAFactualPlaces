@@ -437,7 +437,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"/Users/sdikarev/Dropbox/Incoding/Apple\\ coding/LookAround.iOS7",
+					"/Users/sdikarev/Dropbox/Incoding/Apple\\ coding/DKAFactualPlaces",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LookAround.iOS7/LookAround.iOS7-Prefix.pch";
@@ -454,7 +454,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"/Users/sdikarev/Dropbox/Incoding/Apple\\ coding/LookAround.iOS7",
+					"/Users/sdikarev/Dropbox/Incoding/Apple\\ coding/DKAFactualPlaces",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LookAround.iOS7/LookAround.iOS7-Prefix.pch";
